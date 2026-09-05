@@ -1,0 +1,6 @@
+{
+  "name": "AdminPanel",
+  "description": "پنل مدیریت پیشرفته ربات تلگرام با امکانات پیام همگانی، مدیریت کانال‌ها، دکمه‌ساز و نظارت ابری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
